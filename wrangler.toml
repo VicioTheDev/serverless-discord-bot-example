@@ -1,0 +1,6 @@
+main = "./src/index.ts"
+name = "your worker name"
+compatibility_date = "compatibility_date"
+account_id = 'account id from cloudflare workers'
+workers_dev = true
+node_compat = true
